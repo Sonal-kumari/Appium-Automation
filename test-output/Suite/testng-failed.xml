@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SanityTest(failed)">
+    <classes>
+      <class name="tests.Home_TC_02">
+        <methods>
+          <include name="industriesPagevalidation"/>
+          <include name="teardown"/>
+          <include name="searchIconValidation"/>
+          <include name="cookieClose"/>
+          <include name="contactUsPageValidation"/>
+          <include name="productsPageValidation"/>
+          <include name="setup"/>
+          <include name="insightsPageValidation"/>
+          <include name="officePageValidation"/>
+          <include name="homePageValidation"/>
+        </methods>
+      </class> <!-- tests.Home_TC_02 -->
+    </classes>
+  </test> <!-- SanityTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
