@@ -5,16 +5,9 @@
     <classes>
       <class name="tests.Home_TC_02">
         <methods>
-          <include name="industriesPagevalidation"/>
           <include name="teardown"/>
           <include name="searchIconValidation"/>
-          <include name="cookieClose"/>
-          <include name="contactUsPageValidation"/>
-          <include name="productsPageValidation"/>
           <include name="setup"/>
-          <include name="insightsPageValidation"/>
-          <include name="officePageValidation"/>
-          <include name="homePageValidation"/>
         </methods>
       </class> <!-- tests.Home_TC_02 -->
     </classes>
