@@ -29,7 +29,7 @@ public class BaseClass
 //		caps.setCapability(MobileCapabilityType.DEVICE_NAME, "SM-A260G");
 //		caps.setCapability(MobileCapabilityType.PLATFORM_VERSION, "8.1.0");
 		caps.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 60);
-		caps.setCapability("chromedriverExecutable", "/home/sonal/Downloads/chromedriver_linux64/chromedriver");
+		caps.setCapability("chromedriverExecutable", "/home/sonal/Downloads/AppiumAutomation/chromedriver_104.0.5112.79/chromedriver");
 		caps.setCapability(MobileCapabilityType.BROWSER_NAME, "Chrome");
 			
 		URL url = new URL("http://0.0.0.0:4723/wd/hub");
