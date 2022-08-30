@@ -20,76 +20,76 @@
       <![CDATA[Contact us page validated]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-02-09T19:10:03 IST" name="Suite" finished-at="2022-02-09T19:13:16 IST" duration-ms="192731">
+  <suite started-at="2022-08-23T12:20:34 IST" name="Suite" finished-at="2022-08-23T12:23:16 IST" duration-ms="161831">
     <groups>
     </groups>
-    <test started-at="2022-02-09T19:10:03 IST" name="SanityTest" finished-at="2022-02-09T19:13:16 IST" duration-ms="192731">
+    <test started-at="2022-08-23T12:20:34 IST" name="SanityTest" finished-at="2022-08-23T12:23:16 IST" duration-ms="161831">
       <class name="tests.Home_TC_02">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:10:03 IST" name="setup" finished-at="2022-02-09T19:11:24 IST" duration-ms="80876" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:20:34 IST" name="setup" finished-at="2022-08-23T12:21:13 IST" duration-ms="38635" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="cookieClose()[pri:0, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:11:26 IST" name="cookieClose" finished-at="2022-02-09T19:11:28 IST" duration-ms="2633" status="PASS">
+        <test-method signature="cookieClose()[pri:0, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:21:13 IST" name="cookieClose" finished-at="2022-08-23T12:21:13 IST" duration-ms="423" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cookieClose -->
-        <test-method signature="homePageValidation()[pri:1, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:11:29 IST" name="homePageValidation" finished-at="2022-02-09T19:11:29 IST" duration-ms="150" status="PASS">
+        <test-method signature="homePageValidation()[pri:1, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:21:13 IST" name="homePageValidation" finished-at="2022-08-23T12:21:13 IST" duration-ms="74" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Home Page Validated]]>
             </line>
           </reporter-output>
         </test-method> <!-- homePageValidation -->
-        <test-method signature="officePageValidation()[pri:2, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:11:29 IST" name="officePageValidation" finished-at="2022-02-09T19:11:47 IST" duration-ms="17880" status="PASS">
+        <test-method signature="officePageValidation()[pri:2, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:21:13 IST" name="officePageValidation" finished-at="2022-08-23T12:21:27 IST" duration-ms="13166" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Offices page is Validated]]>
             </line>
           </reporter-output>
         </test-method> <!-- officePageValidation -->
-        <test-method signature="productsPageValidation()[pri:3, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:11:47 IST" name="productsPageValidation" finished-at="2022-02-09T19:11:54 IST" duration-ms="7698" status="PASS">
+        <test-method signature="productsPageValidation()[pri:3, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:21:27 IST" name="productsPageValidation" finished-at="2022-08-23T12:21:36 IST" duration-ms="9219" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Products -> Business Insurance Page validated....]]>
             </line>
           </reporter-output>
         </test-method> <!-- productsPageValidation -->
-        <test-method signature="insightsPageValidation()[pri:4, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:11:54 IST" name="insightsPageValidation" finished-at="2022-02-09T19:12:15 IST" duration-ms="20706" status="PASS">
+        <test-method signature="insightsPageValidation()[pri:4, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:21:36 IST" name="insightsPageValidation" finished-at="2022-08-23T12:22:12 IST" duration-ms="36455" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Elements Present......Insights Page Validated]]>
             </line>
           </reporter-output>
         </test-method> <!-- insightsPageValidation -->
-        <test-method signature="industriesPagevalidation()[pri:5, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:12:15 IST" name="industriesPagevalidation" finished-at="2022-02-09T19:12:27 IST" duration-ms="12207" status="PASS">
+        <test-method signature="industriesPagevalidation()[pri:5, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:22:12 IST" name="industriesPagevalidation" finished-at="2022-08-23T12:22:25 IST" duration-ms="12805" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Industries -> Entertainment Page Validated]]>
             </line>
           </reporter-output>
         </test-method> <!-- industriesPagevalidation -->
-        <test-method signature="searchIconValidation()[pri:6, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:12:27 IST" name="searchIconValidation" finished-at="2022-02-09T19:12:59 IST" duration-ms="31706" status="FAIL">
+        <test-method signature="searchIconValidation()[pri:6, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:22:25 IST" name="searchIconValidation" finished-at="2022-08-23T12:22:56 IST" duration-ms="31046" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="query-text"]"}
-  (Session info: chrome=97.0.4692.98)
+  (Session info: chrome=104.0.5112.97)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'sonal-X556UQK', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-27-generic', java.version: '11.0.13'
+System info: host: 'sonal-X556UQK', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-39-generic', java.version: '11.0.14.1'
 Driver info: io.appium.java_client.AppiumDriver
-Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, automationName: UiAutomator2, browserName: Chrome, chromedriverExecutable: /home/sonal/Downloads/chrom..., databaseEnabled: false, desired: {automationName: UiAutomator2, browserName: Chrome, chromedriverExecutable: /home/sonal/Downloads/chrom..., deviceName: Nexus 5X API 25, newCommandTimeout: 60, platformName: android, platformVersion: 7.1.1, udid: emulator-5554}, deviceApiLevel: 25, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 60, pixelRatio: 2.625, platform: LINUX, platformName: ANDROID, platformVersion: 7.1.1, statBarHeight: 63, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 08ebdc50-f402-4ff4-bc5e-fdb5f99dd05f
+Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, automationName: UiAutomator2, browserName: Chrome, chromedriverExecutable: /home/sonal/Downloads/Appiu..., databaseEnabled: false, desired: {automationName: UiAutomator2, browserName: Chrome, chromedriverExecutable: /home/sonal/Downloads/Appiu..., deviceName: Nexus 5X API 25, newCommandTimeout: 60, platformName: android, platformVersion: 7.1.1, udid: emulator-5554}, deviceApiLevel: 25, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 60, pixelRatio: 2.625, platform: LINUX, platformName: ANDROID, platformVersion: 7.1.1, statBarHeight: 63, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 4e5d2378-21a6-4fd6-9ef8-fbace6b99e72
 *** Element info: {Using=xpath, value=//*[@class="query-text"]}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class="query-text"]"}
-  (Session info: chrome=97.0.4692.98)
+  (Session info: chrome=104.0.5112.97)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'sonal-X556UQK', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-27-generic', java.version: '11.0.13'
+System info: host: 'sonal-X556UQK', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-39-generic', java.version: '11.0.14.1'
 Driver info: io.appium.java_client.AppiumDriver
-Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, automationName: UiAutomator2, browserName: Chrome, chromedriverExecutable: /home/sonal/Downloads/chrom..., databaseEnabled: false, desired: {automationName: UiAutomator2, browserName: Chrome, chromedriverExecutable: /home/sonal/Downloads/chrom..., deviceName: Nexus 5X API 25, newCommandTimeout: 60, platformName: android, platformVersion: 7.1.1, udid: emulator-5554}, deviceApiLevel: 25, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 60, pixelRatio: 2.625, platform: LINUX, platformName: ANDROID, platformVersion: 7.1.1, statBarHeight: 63, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 08ebdc50-f402-4ff4-bc5e-fdb5f99dd05f
+Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, automationName: UiAutomator2, browserName: Chrome, chromedriverExecutable: /home/sonal/Downloads/Appiu..., databaseEnabled: false, desired: {automationName: UiAutomator2, browserName: Chrome, chromedriverExecutable: /home/sonal/Downloads/Appiu..., deviceName: Nexus 5X API 25, newCommandTimeout: 60, platformName: android, platformVersion: 7.1.1, udid: emulator-5554}, deviceApiLevel: 25, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 60, pixelRatio: 2.625, platform: LINUX, platformName: ANDROID, platformVersion: 7.1.1, statBarHeight: 63, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 1731, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 4e5d2378-21a6-4fd6-9ef8-fbace6b99e72
 *** Element info: {Using=xpath, value=//*[@class="query-text"]}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -150,14 +150,14 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchIconValidation -->
-        <test-method signature="contactUsPageValidation()[pri:7, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:12:59 IST" name="contactUsPageValidation" finished-at="2022-02-09T19:13:11 IST" duration-ms="12134" status="PASS">
+        <test-method signature="contactUsPageValidation()[pri:7, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:22:56 IST" name="contactUsPageValidation" finished-at="2022-08-23T12:23:15 IST" duration-ms="18376" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Contact us page validated]]>
             </line>
           </reporter-output>
         </test-method> <!-- contactUsPageValidation -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.Home_TC_02@4b14c583]" started-at="2022-02-09T19:13:11 IST" name="teardown" finished-at="2022-02-09T19:13:16 IST" duration-ms="4740" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.Home_TC_02@5c909414]" started-at="2022-08-23T12:23:15 IST" name="teardown" finished-at="2022-08-23T12:23:16 IST" duration-ms="1546" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
